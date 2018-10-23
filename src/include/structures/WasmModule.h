@@ -10,7 +10,7 @@
 #include <structures/WasmFunc.h>
 #include <structures/WasmGlobal.h>
 #include <structures/WasmImport.h>
-#include <structures/WasmInstr.h>
+#include <structures/instrs/WasmInstr.h>
 #include <structures/WasmMemory.h>
 #include <structures/WasmTable.h>
 

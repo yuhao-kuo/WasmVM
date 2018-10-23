@@ -11,6 +11,7 @@ add_library(wasmvm_core
     dataTypes/Value.c
     dataTypes/vector.c
     dataTypes/FuncType.c
+    validator/Validator.c
 )
 
 add_subdirectory(core/runtime)
