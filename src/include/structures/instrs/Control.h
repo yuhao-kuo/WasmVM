@@ -1,5 +1,5 @@
-#ifndef WASMVM_STRUCTURE_INSTR_MEMORY
-#define WASMVM_STRUCTURE_INSTR_MEMORY
+#ifndef WASMVM_STRUCTURE_INSTR_CONTROL
+#define WASMVM_STRUCTURE_INSTR_CONTROL
 
 #include <stdint.h>
 #include <dataTypes/Value.h>

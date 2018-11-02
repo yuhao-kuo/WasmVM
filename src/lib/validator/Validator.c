@@ -9,6 +9,7 @@ static void* getOutput(Validator* validator){
     return validator->output;
 }
 static int runValidator(Validator* validator){
+    //TODO:
     return 0;
 }
 
